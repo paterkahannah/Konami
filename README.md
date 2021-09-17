@@ -6,5 +6,4 @@ While many users are on a mission when they visit a site I want to keep in mind 
 
 Grabbing a visitors attention and causing them to engage further with your site is extremely important and can help build trust and future clients!
 
-<!-- ![Komani Demo](img/konami.gif) -->
-![Komani Demo](img/recording.mov)
+![Komani Demo](img/konami.gif)
